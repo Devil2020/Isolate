@@ -1,0 +1,9 @@
+{
+    "debug.enableAllHovers": true,
+    "debug.inlineValues": true,
+    "search.quickOpen.includeSymbols": true,
+    "search.runInExtensionHost": true,
+    "search.showLineNumbers": true,
+    "search.smartCase": true,
+    "terminal.integrated.fontSize": 16 
+}
